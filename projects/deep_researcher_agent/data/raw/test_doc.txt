@@ -1,4 +1,0 @@
-Artificial Intelligence is a branch of computer science that focuses on building systems capable of performing tasks that normally require human intelligence. 
-Examples include natural language processing, computer vision, and robotics. 
-Machine Learning is a subset of AI that allows systems to learn from data without being explicitly programmed. 
-Deep Learning is a type of Machine Learning that uses neural networks with many layers to learn complex patterns.
